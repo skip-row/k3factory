@@ -1,0 +1,23 @@
+# PHP 관련
+*.log
+*.cache
+*.tmp
+
+# 환경 설정 파일 (보안상 제외)
+.env
+config.php
+database.php
+
+# IDE 관련
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.bak
+*.backup 
