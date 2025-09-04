@@ -20,3 +20,268 @@
 오전 10:08:55  [main] 	Deinitializing Modules
 오전 10:08:55  [main] 	Deinitializing Control Panel
 
+오후 7:52:43  [Apache] 	Attempting to start Apache app...
+오후 7:52:43  [Apache] 	Status change detected: running
+오후 7:52:44  [Apache] 	Status change detected: stopped
+오후 7:52:44  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 7:52:44  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 7:52:44  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 7:52:44  [Apache] 	Press the Logs button to view error logs and check
+오후 7:52:44  [Apache] 	the Windows Event Viewer for more clues
+오후 7:52:44  [Apache] 	If you need more help, copy and post this
+오후 7:52:44  [Apache] 	entire log window on the forums
+오후 8:00:28  [Apache] 	Status change detected: running
+오후 8:00:30  [Apache] 	Status change detected: stopped
+오후 8:00:30  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:00:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:00:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:00:30  [Apache] 	Press the Logs button to view error logs and check
+오후 8:00:30  [Apache] 	the Windows Event Viewer for more clues
+오후 8:00:30  [Apache] 	If you need more help, copy and post this
+오후 8:00:30  [Apache] 	entire log window on the forums
+오후 8:01:22  [Apache] 	Attempting to start Apache app...
+오후 8:01:22  [Apache] 	Status change detected: running
+오후 8:01:23  [Apache] 	Status change detected: stopped
+오후 8:01:23  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:01:23  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:01:23  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:01:23  [Apache] 	Press the Logs button to view error logs and check
+오후 8:01:23  [Apache] 	the Windows Event Viewer for more clues
+오후 8:01:23  [Apache] 	If you need more help, copy and post this
+오후 8:01:23  [Apache] 	entire log window on the forums
+오후 8:04:33  [Apache] 	Attempting to start Apache app...
+오후 8:04:33  [Apache] 	Status change detected: running
+오후 8:04:35  [Apache] 	Status change detected: stopped
+오후 8:04:35  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:04:35  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:04:35  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:04:35  [Apache] 	Press the Logs button to view error logs and check
+오후 8:04:35  [Apache] 	the Windows Event Viewer for more clues
+오후 8:04:35  [Apache] 	If you need more help, copy and post this
+오후 8:04:35  [Apache] 	entire log window on the forums
+오후 8:04:49  [Apache] 	Status change detected: running
+오후 8:04:50  [Apache] 	Status change detected: stopped
+오후 8:04:50  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:04:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:04:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:04:50  [Apache] 	Press the Logs button to view error logs and check
+오후 8:04:50  [Apache] 	the Windows Event Viewer for more clues
+오후 8:04:50  [Apache] 	If you need more help, copy and post this
+오후 8:04:50  [Apache] 	entire log window on the forums
+오후 8:05:32  [Apache] 	Status change detected: running
+오후 8:05:33  [Apache] 	Status change detected: stopped
+오후 8:05:33  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:05:33  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:05:33  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:05:33  [Apache] 	Press the Logs button to view error logs and check
+오후 8:05:33  [Apache] 	the Windows Event Viewer for more clues
+오후 8:05:33  [Apache] 	If you need more help, copy and post this
+오후 8:05:33  [Apache] 	entire log window on the forums
+오후 8:05:37  [Apache] 	Attempting to start Apache app...
+오후 8:05:37  [Apache] 	Status change detected: running
+오후 8:05:39  [Apache] 	Status change detected: stopped
+오후 8:05:39  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:05:39  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:05:39  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:05:39  [Apache] 	Press the Logs button to view error logs and check
+오후 8:05:39  [Apache] 	the Windows Event Viewer for more clues
+오후 8:05:39  [Apache] 	If you need more help, copy and post this
+오후 8:05:39  [Apache] 	entire log window on the forums
+오후 8:05:50  [Apache] 	Attempting to start Apache app...
+오후 8:05:51  [Apache] 	Status change detected: running
+오후 8:05:52  [Apache] 	Status change detected: stopped
+오후 8:05:52  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:05:52  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:05:52  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:05:52  [Apache] 	Press the Logs button to view error logs and check
+오후 8:05:52  [Apache] 	the Windows Event Viewer for more clues
+오후 8:05:52  [Apache] 	If you need more help, copy and post this
+오후 8:05:52  [Apache] 	entire log window on the forums
+오후 8:05:57  [Apache] 	Status change detected: running
+오후 8:05:58  [Apache] 	Status change detected: stopped
+오후 8:05:58  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:05:58  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:05:58  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:05:58  [Apache] 	Press the Logs button to view error logs and check
+오후 8:05:58  [Apache] 	the Windows Event Viewer for more clues
+오후 8:05:58  [Apache] 	If you need more help, copy and post this
+오후 8:05:58  [Apache] 	entire log window on the forums
+오후 8:06:00  [Apache] 	Attempting to start Apache app...
+오후 8:06:00  [Apache] 	Status change detected: running
+오후 8:06:01  [Apache] 	Status change detected: stopped
+오후 8:06:01  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:06:01  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:06:01  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:06:01  [Apache] 	Press the Logs button to view error logs and check
+오후 8:06:01  [Apache] 	the Windows Event Viewer for more clues
+오후 8:06:01  [Apache] 	If you need more help, copy and post this
+오후 8:06:01  [Apache] 	entire log window on the forums
+오후 8:11:52  [Apache] 	Status change detected: running
+오후 8:11:53  [Apache] 	Status change detected: stopped
+오후 8:11:53  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:11:53  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:11:53  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:11:53  [Apache] 	Press the Logs button to view error logs and check
+오후 8:11:53  [Apache] 	the Windows Event Viewer for more clues
+오후 8:11:53  [Apache] 	If you need more help, copy and post this
+오후 8:11:53  [Apache] 	entire log window on the forums
+오후 8:11:56  [Apache] 	Attempting to start Apache app...
+오후 8:11:56  [Apache] 	Status change detected: running
+오후 8:11:57  [Apache] 	Status change detected: stopped
+오후 8:11:57  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:11:57  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:11:57  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:11:57  [Apache] 	Press the Logs button to view error logs and check
+오후 8:11:57  [Apache] 	the Windows Event Viewer for more clues
+오후 8:11:57  [Apache] 	If you need more help, copy and post this
+오후 8:11:57  [Apache] 	entire log window on the forums
+오후 8:13:44  [Apache] 	Status change detected: running
+오후 8:13:45  [Apache] 	Status change detected: stopped
+오후 8:13:45  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:13:45  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:13:45  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:13:45  [Apache] 	Press the Logs button to view error logs and check
+오후 8:13:45  [Apache] 	the Windows Event Viewer for more clues
+오후 8:13:45  [Apache] 	If you need more help, copy and post this
+오후 8:13:45  [Apache] 	entire log window on the forums
+오후 8:13:49  [Apache] 	Attempting to start Apache app...
+오후 8:13:49  [Apache] 	Status change detected: running
+오후 8:13:50  [Apache] 	Status change detected: stopped
+오후 8:13:50  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:13:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:13:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:13:50  [Apache] 	Press the Logs button to view error logs and check
+오후 8:13:50  [Apache] 	the Windows Event Viewer for more clues
+오후 8:13:50  [Apache] 	If you need more help, copy and post this
+오후 8:13:50  [Apache] 	entire log window on the forums
+오후 8:14:35  [Apache] 	Attempting to start Apache app...
+오후 8:14:35  [Apache] 	Status change detected: running
+오후 8:14:36  [Apache] 	Status change detected: stopped
+오후 8:14:36  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:14:36  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:14:36  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:14:36  [Apache] 	Press the Logs button to view error logs and check
+오후 8:14:36  [Apache] 	the Windows Event Viewer for more clues
+오후 8:14:36  [Apache] 	If you need more help, copy and post this
+오후 8:14:36  [Apache] 	entire log window on the forums
+오후 8:14:38  [Apache] 	Attempting to start Apache app...
+오후 8:14:38  [Apache] 	Status change detected: running
+오후 8:14:39  [Apache] 	Status change detected: stopped
+오후 8:14:39  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:14:39  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:14:39  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:14:39  [Apache] 	Press the Logs button to view error logs and check
+오후 8:14:39  [Apache] 	the Windows Event Viewer for more clues
+오후 8:14:39  [Apache] 	If you need more help, copy and post this
+오후 8:14:39  [Apache] 	entire log window on the forums
+오후 8:16:31  [Apache] 	Attempting to start Apache app...
+오후 8:16:31  [Apache] 	Status change detected: running
+오후 8:16:56  [mysql] 	Attempting to start MySQL app...
+오후 8:16:57  [mysql] 	Status change detected: running
+오후 8:16:57  [mysql] 	Status change detected: stopped
+오후 8:16:57  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 8:16:57  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 8:16:57  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:16:57  [mysql] 	Press the Logs button to view error logs and check
+오후 8:16:57  [mysql] 	the Windows Event Viewer for more clues
+오후 8:16:57  [mysql] 	If you need more help, copy and post this
+오후 8:16:57  [mysql] 	entire log window on the forums
+오후 8:16:59  [Tomcat] 	Attempting to start Tomcat app...
+오후 8:17:00  [Tomcat] 	Status change detected: running
+오후 8:17:07  [Tomcat] 	Attempting to stop Tomcat
+오후 8:17:07  [Tomcat] 	Status change detected: stopped
+오후 8:17:08  [Tomcat] 	Attempting to start Tomcat app...
+오후 8:17:09  [Tomcat] 	Status change detected: running
+오후 8:17:23  [Tomcat] 	Attempting to stop Tomcat
+오후 8:17:24  [Tomcat] 	Status change detected: stopped
+오후 8:17:30  [Apache] 	Attempting to stop Apache (PID: 10656)
+오후 8:17:30  [Apache] 	Attempting to stop Apache (PID: 22512)
+오후 8:17:31  [Apache] 	Status change detected: stopped
+오후 8:17:51  [main] 	Deinitializing Modules
+오후 8:17:51  [main] 	Deinitializing Control Panel
+
+오후 7:41:43  [main] 	Initializing Control Panel
+오후 7:41:43  [main] 	Windows Version:  Enterprise  64-bit
+오후 7:41:43  [main] 	XAMPP Version: 8.2.12
+오후 7:41:43  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오후 7:41:43  [main] 	You are not running with administrator rights! This will work for
+오후 7:41:43  [main] 	most application stuff but whenever you do something with services
+오후 7:41:43  [main] 	there will be a security dialogue or things will break! So think 
+오후 7:41:43  [main] 	about running this application with administrator rights!
+오후 7:41:43  [main] 	XAMPP Installation Directory: "c:\k3factory\"
+오후 7:41:43  [main] 	Checking for prerequisites
+오후 7:41:43  [main] 	All prerequisites found
+오후 7:41:43  [main] 	Initializing Modules
+오후 7:41:43  [main] 	Starting Check-Timer
+오후 7:41:43  [main] 	Control Panel Ready
+오후 7:41:54  [Apache] 	Attempting to start Apache app...
+오후 7:41:54  [Apache] 	Status change detected: running
+오후 7:41:55  [Apache] 	Status change detected: stopped
+오후 7:41:55  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 7:41:55  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 7:41:55  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 7:41:55  [Apache] 	Press the Logs button to view error logs and check
+오후 7:41:55  [Apache] 	the Windows Event Viewer for more clues
+오후 7:41:55  [Apache] 	If you need more help, copy and post this
+오후 7:41:55  [Apache] 	entire log window on the forums
+오후 8:00:28  [Apache] 	Status change detected: running
+오후 8:00:30  [Apache] 	Status change detected: stopped
+오후 8:00:30  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:00:30  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:00:30  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:00:30  [Apache] 	Press the Logs button to view error logs and check
+오후 8:00:30  [Apache] 	the Windows Event Viewer for more clues
+오후 8:00:30  [Apache] 	If you need more help, copy and post this
+오후 8:00:30  [Apache] 	entire log window on the forums
+오후 8:04:49  [Apache] 	Status change detected: running
+오후 8:04:50  [Apache] 	Status change detected: stopped
+오후 8:04:50  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:04:50  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:04:50  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:04:50  [Apache] 	Press the Logs button to view error logs and check
+오후 8:04:50  [Apache] 	the Windows Event Viewer for more clues
+오후 8:04:50  [Apache] 	If you need more help, copy and post this
+오후 8:04:50  [Apache] 	entire log window on the forums
+오후 8:05:32  [Apache] 	Status change detected: running
+오후 8:05:33  [Apache] 	Status change detected: stopped
+오후 8:05:33  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:05:33  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:05:33  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:05:33  [Apache] 	Press the Logs button to view error logs and check
+오후 8:05:33  [Apache] 	the Windows Event Viewer for more clues
+오후 8:05:33  [Apache] 	If you need more help, copy and post this
+오후 8:05:33  [Apache] 	entire log window on the forums
+오후 8:05:57  [Apache] 	Status change detected: running
+오후 8:05:58  [Apache] 	Status change detected: stopped
+오후 8:05:58  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:05:58  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:05:58  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:05:58  [Apache] 	Press the Logs button to view error logs and check
+오후 8:05:58  [Apache] 	the Windows Event Viewer for more clues
+오후 8:05:58  [Apache] 	If you need more help, copy and post this
+오후 8:05:58  [Apache] 	entire log window on the forums
+오후 8:11:52  [Apache] 	Status change detected: running
+오후 8:11:53  [Apache] 	Status change detected: stopped
+오후 8:11:53  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:11:53  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:11:53  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:11:53  [Apache] 	Press the Logs button to view error logs and check
+오후 8:11:53  [Apache] 	the Windows Event Viewer for more clues
+오후 8:11:53  [Apache] 	If you need more help, copy and post this
+오후 8:11:53  [Apache] 	entire log window on the forums
+오후 8:13:44  [Apache] 	Status change detected: running
+오후 8:13:45  [Apache] 	Status change detected: stopped
+오후 8:13:45  [Apache] 	Error: Apache shutdown unexpectedly.
+오후 8:13:45  [Apache] 	This may be due to a blocked port, missing dependencies, 
+오후 8:13:45  [Apache] 	improper privileges, a crash, or a shutdown by another method.
+오후 8:13:45  [Apache] 	Press the Logs button to view error logs and check
+오후 8:13:45  [Apache] 	the Windows Event Viewer for more clues
+오후 8:13:45  [Apache] 	If you need more help, copy and post this
+오후 8:13:45  [Apache] 	entire log window on the forums
+오후 8:17:00  [Tomcat] 	Status change detected: running
+오후 8:17:07  [Tomcat] 	Status change detected: stopped
+오후 8:17:09  [Tomcat] 	Status change detected: running
+오후 8:17:24  [Tomcat] 	Status change detected: stopped
+오후 8:17:52  [main] 	Deinitializing Modules
+오후 8:17:52  [main] 	Deinitializing Control Panel
+
