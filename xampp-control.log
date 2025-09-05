@@ -285,3 +285,27 @@
 오후 8:17:52  [main] 	Deinitializing Modules
 오후 8:17:52  [main] 	Deinitializing Control Panel
 
+오전 9:21:33  [main] 	Initializing Control Panel
+오전 9:21:33  [main] 	Windows Version:  Enterprise  64-bit
+오전 9:21:33  [main] 	XAMPP Version: 8.2.12
+오전 9:21:33  [main] 	Control Panel Version: 3.3.0  [ Compiled: Apr 6th 2021 ]
+오전 9:21:33  [main] 	You are not running with administrator rights! This will work for
+오전 9:21:33  [main] 	most application stuff but whenever you do something with services
+오전 9:21:33  [main] 	there will be a security dialogue or things will break! So think 
+오전 9:21:33  [main] 	about running this application with administrator rights!
+오전 9:21:33  [main] 	XAMPP Installation Directory: "c:\k3factory\"
+오전 9:21:33  [main] 	Checking for prerequisites
+오전 9:21:33  [main] 	All prerequisites found
+오전 9:21:33  [main] 	Initializing Modules
+오전 9:21:34  [filezilla] 	Problem detected!
+오전 9:21:34  [filezilla] 	Port 21 in use by "C:\Program Files\FUJIFILM Business Innovation Korea\FBKRSSU\FBKRSSU.exe"!
+오전 9:21:34  [filezilla] 	FileZilla WILL NOT start without the configured ports free!
+오전 9:21:34  [filezilla] 	You need to uninstall/disable/reconfigure the blocking application
+오전 9:21:34  [filezilla] 	or reconfigure FileZilla and the Control Panel to listen on a different port
+오전 9:21:34  [main] 	Starting Check-Timer
+오전 9:21:34  [main] 	Control Panel Ready
+오전 9:21:35  [Apache] 	Attempting to start Apache app...
+오전 9:21:36  [Apache] 	Status change detected: running
+오후 4:55:47  [main] 	Deinitializing Modules
+오후 4:55:47  [main] 	Deinitializing Control Panel
+
