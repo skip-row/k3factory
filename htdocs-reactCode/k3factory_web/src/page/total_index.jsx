@@ -1,11 +1,8 @@
 import React from 'react'
 
-export default function Total_index(props) {
-    const {header, footer} = props;
+export default function Total_index() {
     return (
-    <content>
-        {header}
-
+    <div className="contentWrap">
         <nav aria-label="주요 메뉴"></nav>
 
         <main id="main">
@@ -19,17 +16,17 @@ export default function Total_index(props) {
 
             <section id="notice">
             <h2>Notice List</h2>
-            <article class="notice">
+            <article className="notice">
                 <img src="missing.png" alt="" />
                 <h3></h3>
                 <p></p>
             </article>
-            <article class="notice">
+            <article className="notice">
                 <img src="missing.png" alt="" />
                 <h3></h3>
                 <p></p>
             </article>
-            <article class="notice">
+            <article className="notice">
                 <img src="missing.png" alt="" />
                 <h3></h3>
                 <p></p>
@@ -41,9 +38,6 @@ export default function Total_index(props) {
             <img src="missing.png" alt="" />
             </section>
         </main>
-
-        {footer}
-
-    </content>
+    </div>
   )
 }

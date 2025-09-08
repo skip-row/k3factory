@@ -1,16 +1,22 @@
 import { useState } from 'react'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+
+import Total_layout from './layout/total_layout';
 import Total_index from './page/total_index'
-import Total_header from './layout/total_header'
-import Total_footer from './layout/total_footer'
 
 
 function App() {
 
 
   return (
-    <>
-      <Total_index header={<Total_header />} footer={<Total_footer />} />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route element={<Total_layout />}> 
+          {/* 메인 */}
+          <Route index element={<Total_index />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   )
 }
 
