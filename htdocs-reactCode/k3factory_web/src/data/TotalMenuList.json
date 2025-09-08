@@ -1,0 +1,56 @@
+[
+    {
+        "menuID" : 100,
+        "menuName" : "플러그인마스터",
+        "menuLink" : "/pluginmaster",
+        "subMenu" : [
+            {
+                "subMenuID" : 110,
+                "subMenuName" : "안내",
+                "subMenuLink" : "/pluginmaster"
+            },
+            {
+                "subMenuID" : 120,
+                "subMenuName" : "팝업",
+                "subMenuLink" : "/pluginmaster/popup"
+            },
+            {
+                "subMenuID" : 130,
+                "subMenuName" : "차트",
+                "subMenuLink" : "/pluginmaster/chart"
+            },
+            {
+                "subMenuID" : 140,
+                "subMenuName" : "달력",
+                "subMenuLink" : "/pluginmaster/calendar"
+            },
+            {
+                "subMenuID" : 150,
+                "subMenuName" : "체크박스",
+                "subMenuLink" : "/pluginmaster/checkbox"
+            }
+        ]
+    },
+    {
+        "menuID" : 200,
+        "menuName" : "오늘운동완료",
+        "menuLink" : "/todayhealth",
+        "subMenu" : [
+            {
+                "subMenuID" : 210,
+                "subMenuName" : "로그인",
+                "subMenuLink" : "/todayhealth/login"
+            },
+            {
+                "subMenuID" : 220,
+                "subMenuName" : "오늘운동입력",
+                "subMenuLink" : "/todayhealth/inputHealth"
+            },
+            {
+                "subMenuID" : 230,
+                "subMenuName" : "오늘운동확인",
+                "subMenuLink" : "/todayhealth/calendarHealth"
+            }
+        ]
+    }
+]

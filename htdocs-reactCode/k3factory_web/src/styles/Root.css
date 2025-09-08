@@ -1,0 +1,14 @@
+:root {
+    max-width : 1200px
+    
+    --color-type1 : #000;
+    --color-type2 : #fff;
+
+    --bg-main1 : #222;
+
+    --font-size-base:14px;
+    --font-size-small:0.875rem;
+    --font-size-smaller:0.75rem;
+    --font-size-big:1.125rem;
+    --font-size-bigger:1.3125rem;
+}

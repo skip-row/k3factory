@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 100,
+        "naame" : "화면 넓이 체크",
+        "action" : "function",
+        "fn" : "checkScreenWidth"
+    },
+    {
+        "id" : 200,
+        "naame" : "디바이스 기종 체크",
+        "action" : "function",
+        "fn" : "checkDeviceType"
+    },
+    {
+        "id" : 300,
+        "naame" : "디바이스 확인",
+        "action" : "function",
+        "fn" : "getDeviceInfo"
+    }
+]

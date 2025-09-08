@@ -1,17 +1,20 @@
 import React from 'react'
+import MainVusual from './../assets/MainVisual1.mp4'
+import Styles from './../styles/Main.module.css'
 
-export default function Total_index() {
+export default function Main() {
     return (
-    <div className="contentWrap">
+    <div className={Styles.wrap}>
         <nav aria-label="주요 메뉴"></nav>
 
         <main id="main">
             <section id="visual">
-            <h1></h1>
-            <img src="missing.png" alt="" />
-            <video preload="none" controls>
-                <source src="missing.webm" type="video/webm" />
+            
+            <video preload="none" controls autoplay="autoplay" muted="muted" loop="loop" playsinline="" className="videoLoaded">
+                <source src={MainVusual} type="video/mp4" />
+                <p>동영상이 지원되지 않는 브라우저입니다.</p>
             </video>
+
             </section>
 
             <section id="notice">
@@ -31,11 +34,6 @@ export default function Total_index() {
                 <h3></h3>
                 <p></p>
             </article>
-            </section>
-
-            <section id="community">
-            <h2>커뮤니티</h2>
-            <img src="missing.png" alt="" />
             </section>
         </main>
     </div>
