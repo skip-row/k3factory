@@ -1,0 +1,7 @@
+header {background-color: var(--bg-main1);}
+.inner {max-width:var(--max-width);margin:0 auto;padding:20px 0;display:flex;align-items: center;justify-content: space-between;}
+
+.logo img {width:40px;}
+.gnb ul {display:flex;align-items: center;}
+.gnb ul li {color: #fff;cursor: pointer;font-size:var(--font-size-big);}
+.gnb ul li + li {border-left:1px solid rgba(255, 255, 255, 0.2);padding-left:20px;margin-left:20px;}
