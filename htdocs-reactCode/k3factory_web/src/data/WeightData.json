@@ -34,5 +34,17 @@
         "memberId" : 2,
         "date" : "2025-09-10",
         "weight" : 95.4
+    },
+    {
+        "id":7,
+        "memberId" : 1,
+        "date" : "2025-09-11",
+        "weight" : 93.3
+    },
+    {
+        "id":8,
+        "memberId" : 2,
+        "date" : "2025-09-11",
+        "weight" : 94.8
     }
 ]
