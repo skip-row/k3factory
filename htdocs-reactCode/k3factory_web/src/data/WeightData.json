@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "memberId" : 1,
+        "date" : "2025-09-08",
+        "weight" : 94.7
+    },
+    {
+        "id":2,
+        "memberId" : 2,
+        "date" : "2025-09-08",
+        "weight" : 96.7
+    },
+    {
+        "id":3,
+        "memberId" : 1,
+        "date" : "2025-09-09",
+        "weight" : 94.2
+    },
+    {
+        "id":4,
+        "memberId" : 2,
+        "date" : "2025-09-09",
+        "weight" : 95.7
+    },
+    {
+        "id":5,
+        "memberId" : 1,
+        "date" : "2025-09-10",
+        "weight" : 93.9
+    },
+    {
+        "id":6,
+        "memberId" : 2,
+        "date" : "2025-09-10",
+        "weight" : 95.4
+    }
+]
