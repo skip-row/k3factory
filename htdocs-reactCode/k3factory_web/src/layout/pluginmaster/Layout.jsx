@@ -1,10 +1,9 @@
 import { Outlet } from "react-router-dom"
 
-import TotalHeader from "./Header"
-import TotalFooter from "./Footer"
+import TotalHeader from "layout/total/Header"
+import TotalFooter from "layout/total/Footer"
 
 export default function Layout() {
-  console.log(<Dummy />);
   return (
     <div className="layoutWrap">
         <TotalHeader />

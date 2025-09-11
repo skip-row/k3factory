@@ -1,7 +1,7 @@
-import Styles from './../styles/Header.module.css'
-import K3logo from './../assets/K3logo_w.png'
+import Styles from 'styles/Header.module.css'
+import K3logo from 'assets/K3logo_w.png'
 
-import TopMenu from './../data/TotalMenuList.json'
+import TopMenu from 'data/TotalMenuList.json'
 import { Link } from 'react-router-dom'
 
 

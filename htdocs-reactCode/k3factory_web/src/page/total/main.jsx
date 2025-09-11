@@ -1,6 +1,6 @@
 import React from 'react'
-import MainVusual from './../assets/MainVisual1.mp4'
-import Styles from './../styles/Main.module.css'
+import MainVusual from 'assets/MainVisual1.mp4'
+import Styles from 'styles/Main.module.css'
 
 export default function Main() {
     return (
